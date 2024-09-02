@@ -1,1 +1,1 @@
-# CIS-4296 (System analysis and design)
+# CIS-4296 System analysis and design
